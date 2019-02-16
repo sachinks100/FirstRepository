@@ -1,3 +1,2 @@
-#SecondObject
-*Actual Code without*
-This is a new file added through a Feature Branch
+:
+*Actual Code withoutconflict*
