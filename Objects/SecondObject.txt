@@ -1,2 +1,3 @@
-#Local
+#Local and #MasterCode
+
 *Actual Code withoutconflict*
